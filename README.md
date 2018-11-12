@@ -1,3 +1,3 @@
 # InterestingCodeChallenges
 
-Note the Interesting code challenges I met
+Note down the Interesting code challenges I have met
